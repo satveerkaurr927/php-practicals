@@ -1,4 +1,5 @@
-<?php$students=array(
+<?php 
+$students=array(
     array("Aman",80),
     array("Rahul",75),
     array("Simran",85),
